@@ -21,8 +21,14 @@ dependencies {
 
     testImplementation 'org.testng:testng:6.9.10'
 
+    // // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+    // implementation 'org.seleniumhq.selenium:selenium-java:4.21.0'
     // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
-    implementation 'org.seleniumhq.selenium:selenium-java:4.21.0'
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.24.0'
+
+
+    //implementation("org.seleniumhq.selenium:selenium-devtools-v130:4.21.0") 
+   // implementation("org.seleniumhq.selenium:selenium-devtools-v129:4.21.0")
 
 }
 

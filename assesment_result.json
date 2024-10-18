@@ -1,0 +1,13 @@
+{
+    "Comment Check.You used 8 comments, should be between 3 < No limit": "TEST_STATUS_SUCCESS",
+    "WebDriverWait Check.You used 3 waits, should be between 1 < No limit": "TEST_STATUS_SUCCESS",
+    "Sleep statement Check.You used 4 sleep statements, should be between No limit < 20": "TEST_STATUS_SUCCESS",
+    "System Out Printline or Logging Check.You used 20 System out Printline statements, should be between 3 < No limit": "TEST_STATUS_SUCCESS",
+    "Test Case 1 - Look for high rated Washing Machines.Navigated to the flipkart": "TEST_STATUS_SUCCESS",
+    "Test Case 1 - Look for high rated Washing Machines.Typed Washing Machine into search box": "TEST_STATUS_SUCCESS",
+    "Test Case 1 - Look for high rated Washing Machines.Got 4 star and lower rated products": "TEST_STATUS_SUCCESS",
+    "Test Case 2 - Look for phones with certain discount.Typed iPhone into search box": "TEST_STATUS_SUCCESS",
+    "Test Case 2 - Look for phones with certain discount.Got discounts for the phones": "TEST_STATUS_SUCCESS",
+    "Test Case 3 - Look for coffee mugs with certain discount.Typed Coffee Mug into search box": "TEST_STATUS_SUCCESS",
+    "Test Case 3 - Look for coffee mugs with certain discount.Got review cound for the coffee mugs": "TEST_STATUS_SUCCESS"
+}
